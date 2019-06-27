@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<groups>
+			<define name="combination">
+				<include name="three"></include>
+				<include name="four"></include>
+			</define>
+			<run>
+				<exclude name="two"></exclude>
+				<include name="allTest"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="Test.GroupsTestNG" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
