@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15079" started-at="2019-06-27T15:57:07Z" finished-at="2019-06-27T15:57:22Z">
+  <suite name="Suite" duration-ms="15239" started-at="2019-06-27T17:44:50Z" finished-at="2019-06-27T17:45:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15079" started-at="2019-06-27T15:57:07Z" finished-at="2019-06-27T15:57:22Z">
+    <test name="Test" duration-ms="15239" started-at="2019-06-27T17:44:50Z" finished-at="2019-06-27T17:45:06Z">
       <class name="testGoogle">
-        <test-method status="PASS" signature="google()[pri:0, instance:testGoogle@25bbe1b6]" name="google" duration-ms="15004" started-at="2019-06-27T15:57:07Z" finished-at="2019-06-27T15:57:22Z">
+        <test-method status="PASS" signature="google()[pri:0, instance:testGoogle@42e26948]" name="google" duration-ms="15187" started-at="2019-06-27T17:44:50Z" finished-at="2019-06-27T17:45:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- google -->
